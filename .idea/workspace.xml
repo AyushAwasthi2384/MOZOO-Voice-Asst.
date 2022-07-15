@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0931a0dd-12bd-46f1-9970-03b131d7a241" name="Changes" comment="check1" />
+    <list default="true" id="0931a0dd-12bd-46f1-9970-03b131d7a241" name="Changes" comment="check1">
+      <change beforePath="$PROJECT_DIR$/../MOZOO-Voice-Asst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOZOO-Voice-Asst/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="AyushAwasthi2384 &lt;ayushawasthicoding@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../MOZOO-Voice-Asst" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -66,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657799048416</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="check1">
+      <created>1657799189653</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657799189653</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
