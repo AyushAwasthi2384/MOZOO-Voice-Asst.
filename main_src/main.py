@@ -10,7 +10,7 @@ engine.setProperty('voice',voices[0].id)
 
 # # The output...
 engine.say("Hello World, my name is mozoo.")
-engine.say("Hi how are you?")
+# engine.say("Hi how are you?")
 engine.runAndWait()
 
 
