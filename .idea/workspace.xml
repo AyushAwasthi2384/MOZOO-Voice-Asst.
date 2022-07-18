@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0931a0dd-12bd-46f1-9970-03b131d7a241" name="Changes" comment="check1">
-      <change beforePath="$PROJECT_DIR$/../MOZOO-Voice-Asst/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOZOO-Voice-Asst/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0931a0dd-12bd-46f1-9970-03b131d7a241" name="Changes" comment="main-first-commit">
       <change beforePath="$PROJECT_DIR$/../MOZOO-Voice-Asst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOZOO-Voice-Asst/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MOZOO-Voice-Asst/main_src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MOZOO-Voice-Asst/main_src/main.py" afterDir="false" />
     </list>
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657882353400</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="main-first-commit">
+      <created>1657885089061</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657885089061</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +140,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="check" />
     <MESSAGE value="check1" />
-    <option name="LAST_COMMIT_MESSAGE" value="check1" />
+    <MESSAGE value="main-first-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="main-first-commit" />
   </component>
 </project>

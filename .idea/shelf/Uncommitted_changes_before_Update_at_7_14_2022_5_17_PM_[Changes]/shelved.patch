@@ -1,0 +1,18 @@
+Index: ../MOZOO-Voice-Asst/main_src/main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># hello bro\r\n\r\nprint(\"hello world\")\r\nprint(\"hello world\")\r\n# new commit\r\nprint(\"hello\")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../MOZOO-Voice-Asst/main_src/main.py b/../MOZOO-Voice-Asst/main_src/main.py
+--- a/../MOZOO-Voice-Asst/main_src/main.py	(revision dd1b75af6e3f5a48961031232f78d054438ccca1)
++++ b/../MOZOO-Voice-Asst/main_src/main.py	(date 1657799248757)
+@@ -3,4 +3,4 @@
+ print("hello world")
+ print("hello world")
+ # new commit
+-print("hello")
+\ No newline at end of file
++# print("hello")
+\ No newline at end of file
