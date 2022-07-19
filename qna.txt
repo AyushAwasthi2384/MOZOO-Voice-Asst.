@@ -1,0 +1,12 @@
+user- Hello Mozoo/ Hey Mozoo/ Hey waiter/ waiter/ Mozoo: (to initialize)
+Mozoo- Hello, my name is Mozoo!
+user- Hello mozoo!
+Mozoo- How can I help you sir?
+user- take order
+      tell me the menu
+      volume up/down
+
+      finished giving the order...(can also be done by the button)
+
+Mozoo- Thanks for ordering, Your order must be on the way.
+user- Thankyou.

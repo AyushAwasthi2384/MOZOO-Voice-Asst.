@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0931a0dd-12bd-46f1-9970-03b131d7a241" name="Changes" comment="main-first-commit">
+      <change afterPath="$PROJECT_DIR$/../MOZOO-Voice-Asst/qna.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MOZOO-Voice-Asst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MOZOO-Voice-Asst/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MOZOO-Voice-Asst/main_src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MOZOO-Voice-Asst/main_src/main.py" afterDir="false" />
     </list>
